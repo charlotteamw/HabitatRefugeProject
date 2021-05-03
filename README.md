@@ -12,3 +12,6 @@ First, we model consumer-resource interactions under a deterministic scenario an
 To model consumer-resource interactions under stochastic dynamics, we perturb consumer and resource denstiies at random time intervals. We track mean consumer population density over 100-time steps, consumer population standard deviation over 100-time steps, and the co-efficient of variation (CV) in consumer density over 100-time steps.
 
 Finally, we determine the equilibrium solutions for consumer and resource populations and plot isoclines to visualize the stability of consumer and resource densities at equilibrium across three levels of refuge strength (for high and low energy flux conditions).
+
+
+https://zenodo.org/badge/latestdoi/364042415
