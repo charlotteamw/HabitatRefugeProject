@@ -13,5 +13,3 @@ To model consumer-resource interactions under stochastic dynamics, we perturb co
 
 Finally, we determine the equilibrium solutions for consumer and resource populations and plot isoclines to visualize the stability of consumer and resource densities at equilibrium across three levels of refuge strength (for high and low energy flux conditions).
 
-
-https://zenodo.org/badge/latestdoi/364042415
